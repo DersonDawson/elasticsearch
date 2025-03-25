@@ -35,7 +35,7 @@ If you find yourself wishing for a feature that doesn't exist in Elasticsearch, 
 Open an issue on our [issues list](https://github.com/elastic/elasticsearch/issues) on GitHub which describes the feature you would like to see, why you need it, and how it should work.
 
 Contributing code and documentation changes
--------------------------------------------
+--------------------------------------------
 
 If you would like to contribute a new feature or a bug fix to Elasticsearch,
 please discuss your idea first on the GitHub issue. If there is no GitHub issue
